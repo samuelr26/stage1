@@ -1,2 +1,2 @@
 # stage1
-my initial experimentation codin
+my initial experimentation in coding
